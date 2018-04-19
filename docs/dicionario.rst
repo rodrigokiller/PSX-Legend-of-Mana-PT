@@ -4,9 +4,9 @@ Dicionario
 Elementos
 ^^^^^^^^^
 
-======  =========  ============ 
+======  =========  =======
 Inglês  Português  Japonês
-------  ---------  ------------
+------  ---------  -------
 Light   Luz        光 (Hikari) 
 Shadow  Escuridão  闇 (Yami) 
 Wood    Árvore     木 (Ki) 
@@ -15,23 +15,26 @@ Fire    Fogo       火 (Hi)
 Earth   Terra      土 (Tsuchi) 
 Wind    Ar         風 (Kaze) 
 Water   Água       水 (Mizu) 
-=====   =====      ============ 
+======  =========  =======
 
 > \* Secret of Mana e Seiken Densetsu 3 SNES (USA) usam Moon como base, Legend of Mana usa Gold. Legend of Mana refere-se à Gold como sendo Metal também.
 
 Espíritos da Mana
 ^^^^^^^^^^^^^^^^^
 
-| Inglês | Descrição | Português | Japonês |
-| --- | --- | --- | --- |
-| Wisp | Espírito da Luz | Wisp | ウィスプ (U~isupu) |
-| Shade | Espírito da Escuridão | Shade | シェイド (Sheido) |
-| Dryad | Espírito da Árvore | Dríade | ドリアード (Doriādo) |
-| Aura * | Espírito do Ouro | Aura | アウラ (Aura) |
-| Salamander | Espírito do Fogo | Salamandra | サラマンダー (Saramandā) |
-| Gnome | Espírito da Terra | Gnomo | ノーム (Nōmu) |
-| Jinn | Espírito do Ar | Jin | ジン (Jin) |
-| Undine | Espírito da Água | Undine | ウンディーネ (Undīne) |
+==========  =====================  ==========  =======================
+Inglês      Descrição              Português   Japonês
+----------  ---------------------  ----------  -----------------------
+Wisp        Espírito da Luz        Wisp        ウィスプ (U~isupu)
+Shade       Espírito da Escuridão  Shade       シェイド (Sheido)
+Dryad       Espírito da Árvore     Dríade      ドリアード (Doriādo)
+Aura *      Espírito do Ouro       Aura        アウラ (Aura)
+Salamander  Espírito do Fogo       Salamandra  サラマンダー (Saramandā)
+Gnome       Espírito da Terra      Gnomo       ノーム (Nōmu)
+Jinn        Espírito do Ar         Jin         ジン (Jin)
+Undine      Espírito da Água       Undine      ウンディーネ (Undīne)
+==========  =====================  ==========  =======================
+
 > \* Em todos os outros jogos, Luna é o elemento oposto ao Dryad
 
 Imagens de batalha
