@@ -1,24 +1,26 @@
 Dicionario
 ----------
 
-# Legend of Mana 
+Elementos
+^^^^^^^^^
 
-## Elementos
-
-| Inglês | Português | Japonês |
-| --- | --- | --- |
-| Light | Luz | 光 (Hikari) |
-| Shadow | Escuridão | 闇 (Yami) |
-| Wood | Árvore | 木 (Ki) |
-| Gold * | Ouro | 金 (Kin) |
-| Fire | Fogo | 火 (Hi) |
-| Earth | Terra | 土 (Tsuchi) |
-| Wind | Ar | 風 (Kaze) |
-| Water | Água | 水 (Mizu) |
+======  =========  ============ 
+Inglês  Português  Japonês
+------  ---------  ------------
+Light   Luz        光 (Hikari) 
+Shadow  Escuridão  闇 (Yami) 
+Wood    Árvore     木 (Ki) 
+Gold *  Ouro       金 (Kin) 
+Fire    Fogo       火 (Hi) 
+Earth   Terra      土 (Tsuchi) 
+Wind    Ar         風 (Kaze) 
+Water   Água       水 (Mizu) 
+=====   =====      ============ 
 
 > \* Secret of Mana e Seiken Densetsu 3 SNES (USA) usam Moon como base, Legend of Mana usa Gold. Legend of Mana refere-se à Gold como sendo Metal também.
 
-## Espíritos da Mana
+Espíritos da Mana
+^^^^^^^^^^^^^^^^^
 
 | Inglês | Descrição | Português | Japonês |
 | --- | --- | --- | --- |
@@ -32,7 +34,8 @@ Dicionario
 | Undine | Espírito da Água | Undine | ウンディーネ (Undīne) |
 > \* Em todos os outros jogos, Luna é o elemento oposto ao Dryad
 
-## Imagens de batalha
+Imagens de batalha
+^^^^^^^^^
 
 | Inglês | Português | Descrição |
 | --- | --- | --- |
@@ -47,14 +50,16 @@ Dicionario
 | CHM | CAR | Charm: Carisma |
 | LCK | SOR | Lucky: Sorte |
 
-## Algumas palavras chaves
+Algumas palavras chaves
+^^^^^^^^^
 
 | Inglês | Português | 
 | --- | --- | 
 | Wisdom | Sábio |
 | Ancient | Ancestral e Ancião |
 
-## Status gerais 
+Status gerais 
+^^^^^^^^^
 
 | Inglês | Descrição | Português | Descrição |
 | --- | --- | --- | --- |
@@ -65,7 +70,8 @@ Dicionario
 | STR | Strong | FOR | Forte |
 | WK | Week | FRA | Fraco |
 
-## Status de condição
+Status de condição
+^^^^^^^^^
 
 | Inglês | Português | Japonês |
 | --- | --- | --- |
@@ -75,7 +81,8 @@ Dicionario
 | Confusion | Confusão  | |
 | Flameburst | Chama Quente | |
 
-## Tipos de Monstros
+Tipos de Monstros
+^^^^^^^^^
 
 | Inglês | Português | Japonês |
 | --- | --- | --- |
@@ -93,13 +100,15 @@ Dicionario
 | Poltergeist | Poltergeist | |
 | Demi-human | Demi-humano | |
 
-## Outros tipos criaturas
+Outros tipos criaturas
+^^^^^^^^^
 
 | Inglês | Português | Japonês |
 | --- | --- | --- |
 | Insect | Bird | |
 
-## Personagens
+Personagens
+^^^^^^^^^
 
 | ID | Inglês | Português | Japonês |
 | :--- | --- | --- | --- |
