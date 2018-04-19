@@ -1,15 +1,10 @@
-bootstrap-datepicker
+PSX - Legend of Mana 
 ====================
 
-Bootstrap-datepicker provides a flexible datepicker widget in the Bootstrap style.
+Projeto de tradução do jogo Seiken Densetsu: Legend of Mana, versão USA (Legend of Mana) para português.
 
 .. figure:: _static/screenshots/demo_head.png
     :align: center
-
-Versions are incremented according to `semver <http://semver.org/>`_.
-
-`Online Demo <https://eternicode.github.io/bootstrap-datepicker/>`_
-
 
 Requirements
 ------------
@@ -119,9 +114,7 @@ Table of Contents
 
 .. toctree::
 
-   markup
-   options
-   methods
-   events
-   keyboard
-   i18n
+   tool
+   dicionario
+   itens
+   enciclopedia
